@@ -10,3 +10,4 @@ namespace Full_GRASP_And_SOLID.Library
 //De esta manera, la clase AllInOnePrinter no tiene que preocuparse por como se va a imprimir, 
 //sino que solo se encarga de imprimir, 
 //y las clases que implementan la interfaz IDestinoimperison se encargan de como se va a imprimir.
+//Por esto se aplica el principio polimorfismo, ya que lo que hacia una clase ahora lo hacen dos clases diferentes.
